@@ -1,4 +1,5 @@
   div.all {
+    position: fixed;
     max-height: 629px;
     max-width: 1179px;
     width: 100%;
