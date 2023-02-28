@@ -11,3 +11,20 @@
     margin-top: 25px;
     margin-left: 50px;
 }
+
+ul {
+    margin-top: 0px;
+    font-size: 200%;
+}
+
+li {
+    margin: 0px;
+    padding: 0%;
+}
+
+.main1 {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 2%;
+    background-color: rgba(75, 75, 75, 36%);
+}
